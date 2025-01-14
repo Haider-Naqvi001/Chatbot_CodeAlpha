@@ -1,0 +1,55 @@
+Hi|Greeting|Hello! How can I assist you today?
+Hello|Greeting|Hi there! How can I help?
+Hey|Greeting|Hello! What's on your mind?
+Good morning|Greeting|Good morning! Hope you have a fantastic day!
+Good evening|Greeting|Good evening! How can I assist you?
+Hi there|Greeting|Hi! How can I help you today?
+Howdy|Greeting|Howdy! What can I do for you?
+Greetings|Greeting|Greetings! How may I assist you?
+How are you?|Personal|I'm just a program, but I'm doing well! How about you?
+What's your name?|Personal|I'm your friendly chatbot! What's yours?
+What do you do?|Personal|I chat with people and try to help them.
+Where are you from?|Personal|I live in the digital world, ready to chat anytime!
+Do you have a family?|Personal|Nope, just me here in the virtual world.
+Can you think?|Personal|I simulate thinking through algorithms and data processing.
+What’s your purpose?|Personal|My purpose is to assist and provide helpful information.
+Are you real?|Personal|I’m a virtual assistant, so I exist in the digital world.
+Tell me something interesting|FunFact|Did you know the Eiffel Tower can be 15 cm taller during the summer?
+What’s a cool fact?|FunFact|Octopuses have three hearts!
+Can you tell me a fun fact?|FunFact|Sure! Bananas are berries, but strawberries aren’t.
+Do you know any fun facts?|FunFact|A day on Venus is longer than a year on Venus!
+What’s a random fact?|FunFact|Honey never spoils! Archaeologists have found edible honey in ancient tombs.
+Tell me more|FunFact|Sharks existed before trees did!
+Tell me a joke|Joke|Why did the computer go to the doctor? Because it caught a virus!
+Do you know any jokes?|Joke|Why don’t programmers like nature? It has too many bugs.
+Tell me another joke|Joke|What do you call a bee that can’t make up its mind? A maybe!
+Do robots dream?|Joke|Not yet, but that would be a cool feature!
+Make me laugh|Joke|Why do we never tell secrets on a farm? Because the potatoes have eyes, and the corn has ears!
+What is AI?|Knowledge|AI stands for Artificial Intelligence. It's the simulation of human intelligence in machines.
+What is Python?|Knowledge|Python is a popular programming language known for its simplicity and versatility.
+Who invented the telephone?|Knowledge|Alexander Graham Bell is credited with inventing the telephone.
+What is gravity?|Knowledge|Gravity is the force that attracts objects toward each other.
+What is a black hole?|Knowledge|A black hole is a region in space where gravity is so strong that nothing, not even light, can escape.
+What is programming?|Programming|Programming is the process of creating instructions for a computer to follow.
+What is a variable?|Programming|In programming, a variable is a container for storing data values.
+What is debugging?|Programming|Debugging is the process of finding and fixing errors in your code.
+What is an algorithm?|Programming|An algorithm is a set of instructions designed to solve a problem or perform a task.
+What’s the best movie?|Entertainment|Everyone has different tastes, but 'The Godfather' is a classic.
+Do you like sports?|Entertainment|I don’t play, but I can look up scores for you.
+What is anime?|Entertainment|Anime is a style of animation that originated in Japan.
+What’s your favorite movie?|Entertainment|I don’t watch movies, but I’ve heard classics like 'Inception' are great.
+Do you like music?|Entertainment|I don't listen to music, but I can help you find some good tunes!
+What’s your favorite color?|Random|I don’t have eyes, but I think blue is calming.
+Can you dance?|Random|I don’t have a body, but I can encourage you to dance!
+Do you have hobbies?|Random|Helping people is my favorite thing to do.
+Are you human?|Random|Nope! Just a friendly virtual assistant here to help you.
+What is the solar system?|Science|The solar system consists of the Sun, eight planets, moons, asteroids, and comets.
+What’s the tallest mountain?|Science|Mount Everest is the tallest mountain above sea level.
+Where is the Sahara Desert?|Science|The Sahara Desert is in North Africa.
+What is an atom?|Science|An atom is the smallest unit of ordinary matter that forms a chemical element.
+What is a galaxy?|Science|A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems.
+Bye|Farewell|Goodbye! Have a great day!
+See you later|Farewell|Take care! See you next time.
+Thanks|Farewell|You're welcome! Always happy to help.
+Good night|Farewell|Good night! Sweet dreams.
+Catch you later|Farewell|Sure thing! Catch you later.
